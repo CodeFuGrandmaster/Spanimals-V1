@@ -13,11 +13,11 @@ There will of course be a master branch for the most complete and stable version
 
 The development is split up into three main branches: Visual, Data, and Functional.
 
-- **Visual: ** 
+- **Visual** 
 This is where all of the work is done on the layouts, designs, styles, etc.
-- **Data: **
+- **Data**
 This is where to put all of the actual animal and app data.
-- **Functional: **
+- **Functional**
 This is where all of the work is done on the functionality (not visuals or data).
 
 There may be additional (sub-)branches. They will be explained here as needed.
@@ -28,19 +28,15 @@ To keep things organized and prevent people from stepping on each others toes or
 
 - **Visual Design Team**
 Decides on the styles and layouts of pages, Cards, etc. and is responsible for bringing them to life on all displays correctly. Also designs and creates any art or graphics called for.
-- *CodeFuGrandmaster*
 
 - **Research Team**
 These people are the ones who dig up all of the neccesary information and picture for each animal and determine what will appear on the wiki page. They pass this to the Functional team who make sure it's added to the data.
-- *CodeFuGrandmaster*
 
 - **Functional Design Team**
 Responsible not only for making sure the quizes, wiki pages, Cards, etc. are working but that animal data is included in the relevant animals data section. 
-- *CodeFuGrandmaster*
 
 - **QA Team**
 These are the incredibly patient folks who test every single button and mouse movement trying to break everything and hoping nothing does. They also handle communication about bugs from Users with the Development Teams.
-- *CodeFuGrandmaster*
 
 Each Development Team has the accompanying branch as its main workspace, except the QA Team, which tests all branches, including Master as well as the released version(s).
 
