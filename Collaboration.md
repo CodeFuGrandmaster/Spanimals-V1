@@ -1,5 +1,7 @@
 # Collaboration
-So you'd like to help with the project? Thank you! The more people working on this, the better it can be, and the faster it can become something amazing. Or at least that's the idea. Not sure what to do or how things are set up? That's what this file is for!
+So you'd like to help with the project? Thank you! The more people working on this, the better it can be, and the faster 
+it can become something amazing. Or at least that's the idea. Not sure what to do or how things are set up? 
+That's what this file is for!
 
 ### Branch Setup
 There will of course be a master branch for the most complete and stable version.
