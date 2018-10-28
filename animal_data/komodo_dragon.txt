@@ -1,0 +1,5 @@
+Spanimal {
+commonName: "Komodo Dragon"
+scientificName: ""
+
+}
